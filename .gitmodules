@@ -1,0 +1,123 @@
+[submodule "cal-water-bill"]
+	path = cal-water-bill
+	url = git@github.com:nhathuynguyen19/cal-water-bill.git
+[submodule "husc-dktc-tool"]
+	path = husc-dktc-tool
+	url = git@github.com:nhathuynguyen19/husc-dktc-tool.git
+[submodule "mgbasaver"]
+	path = mgbasaver
+	url = git@github.com:nhathuynguyen19/mgbasaver.git
+[submodule "c-code"]
+	path = c-code
+	url = git@github.com:nhathuynguyen19/c-code.git
+[submodule "husci-2"]
+	path = husci-2
+	url = git@github.com:nhathuynguyen19/husci-2.git
+[submodule "minecraft-enable-port-automation"]
+	path = minecraft-enable-port-automation
+	url = git@github.com:nhathuynguyen19/minecraft-enable-port-automation.git
+[submodule "coder"]
+	path = coder
+	url = git@github.com:nhathuynguyen19/coder.git
+[submodule "husci-bot"]
+	path = husci-bot
+	url = git@github.com:nhathuynguyen19/husci-bot.git
+[submodule "polkadot-codecamp-challenges"]
+	path = polkadot-codecamp-challenges
+	url = git@github.com:nhathuynguyen19/polkadot-codecamp-challenges.git
+[submodule "cpp-code"]
+	path = cpp-code
+	url = git@github.com:nhathuynguyen19/cpp-code.git
+[submodule "java-code"]
+	path = java-code
+	url = git@github.com:nhathuynguyen19/java-code.git
+[submodule "python-code"]
+	path = python-code
+	url = git@github.com:nhathuynguyen19/python-code.git
+[submodule "falling-sand"]
+	path = falling-sand
+	url = git@github.com:nhathuynguyen19/falling-sand.git
+[submodule "java-nang-cao"]
+	path = java-nang-cao
+	url = git@github.com:nhathuynguyen19/java-nang-cao.git
+[submodule "seminar-2025"]
+	path = seminar-2025
+	url = git@github.com:nhathuynguyen19/seminar-2025.git
+[submodule "flappy-bird"]
+	path = flappy-bird
+	url = git@github.com:nhathuynguyen19/flappy-bird.git
+[submodule "javascript-code"]
+	path = javascript-code
+	url = git@github.com:nhathuynguyen19/javascript-code.git
+[submodule "sketch-code"]
+	path = sketch-code
+	url = git@github.com:nhathuynguyen19/sketch-code.git
+[submodule "git-sync"]
+	path = git-sync
+	url = git@github.com:nhathuynguyen19/git-sync.git
+[submodule "kafka-project-sample"]
+	path = kafka-project-sample
+	url = git@github.com:nhathuynguyen19/kafka-project-sample.git
+[submodule "spit-front-end-2025"]
+	path = spit-front-end-2025
+	url = git@github.com:nhathuynguyen19/spit-front-end-2025.git
+[submodule "html-code"]
+	path = html-code
+	url = git@github.com:nhathuynguyen19/html-code.git
+[submodule "leet-code"]
+	path = leet-code
+	url = git@github.com:nhathuynguyen19/leet-code.git
+[submodule "spit-resolve"]
+	path = spit-resolve
+	url = git@github.com:nhathuynguyen19/spit-resolve.git
+[submodule "husc2cal"]
+	path = husc2cal
+	url = git@github.com:nhathuynguyen19/husc2cal.git
+[submodule "mailnotice"]
+	path = mailnotice
+	url = git@github.com:nhathuynguyen19/mailnotice.git
+[submodule "tetris"]
+	path = tetris
+	url = git@github.com:nhathuynguyen19/tetris.git
+[submodule "husc-ai-robotics"]
+	path = husc-ai-robotics
+	url = git@github.com:nhathuynguyen19/husc-ai-robotics.git
+[submodule "mau-thiet-ke"]
+	path = mau-thiet-ke
+	url = git@github.com:nhathuynguyen19/mau-thiet-ke.git
+[submodule "pttkhttt"]
+	path = pttkhttt
+	url = git@github.com:nhathuynguyen19/pttkhttt.git
+[submodule "icpc2026"]
+	path = icpc2026
+	url = git@github.com:nhathuynguyen19/icpc2026.git
+[submodule "database"]
+	path = database
+	url = git@github.com:nhathuynguyen19/database.git
+[submodule "cac-he-quan-tri-csdl"]
+	path = cac-he-quan-tri-csdl
+	url = git@github.com:nhathuynguyen19/cac-he-quan-tri-csdl.git
+[submodule "computer-structure"]
+	path = computer-structure
+	url = git@github.com:nhathuynguyen19/computer-structure.git
+[submodule "do-hoa-may-tinh"]
+	path = do-hoa-may-tinh
+	url = git@github.com:nhathuynguyen19/do-hoa-may-tinh.git
+[submodule "cau-truc-du-lieu-va-giai-thuat"]
+	path = cau-truc-du-lieu-va-giai-thuat
+	url = git@github.com:nhathuynguyen19/cau-truc-du-lieu-va-giai-thuat.git
+[submodule "cst"]
+	path = cst
+	url = git@github.com:nhathuynguyen19/cst.git
+[submodule "learn-java-workspace"]
+	path = learn-java-workspace
+	url = git@github.com:nhathuynguyen19/learn-java-workspace.git
+[submodule "computer-network"]
+	path = computer-network
+	url = git@github.com:nhathuynguyen19/computer-network.git
+[submodule "database-design"]
+	path = database-design
+	url = git@github.com:nhathuynguyen19/database-design.git
+[submodule "python-subject"]
+	path = python-subject
+	url = git@github.com:nhathuynguyen19/python-subject.git
