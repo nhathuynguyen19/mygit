@@ -121,3 +121,6 @@
 [submodule "python-subject"]
 	path = python-subject
 	url = git@github.com:nhathuynguyen19/python-subject.git
+[submodule "obsidian"]
+	path = obsidian
+	url = https://github.com/nhathuynguyen19/obsidian
