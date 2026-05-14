@@ -124,3 +124,6 @@
 [submodule "obsidian"]
 	path = obsidian
 	url = https://github.com/nhathuynguyen19/obsidian
+[submodule "vietnamvacationtravel"]
+	path = vietnamvacationtravel
+	url = https://github.com/nhathuynguyen19/vietnamvacationtravel
