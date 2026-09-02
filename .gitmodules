@@ -127,3 +127,6 @@
 [submodule "vietnamvacationtravel"]
 	path = vietnamvacationtravel
 	url = https://github.com/nhathuynguyen19/vietnamvacationtravel
+[submodule "trend-forecasting-system"]
+	path = trend-forecasting-system
+	url = https://github.com/nhathuynguyen19/trend-forecasting-system.git
