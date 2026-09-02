@@ -130,3 +130,6 @@
 [submodule "trend-forecasting-system"]
 	path = trend-forecasting-system
 	url = https://github.com/nhathuynguyen19/trend-forecasting-system.git
+[submodule ".claude"]
+	path = .claude
+	url = git@github.com:nhathuynguyen19/.claude
