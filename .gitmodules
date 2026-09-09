@@ -123,7 +123,7 @@
 	url = git@github.com:nhathuynguyen19/python-subject.git
 [submodule "obsidian"]
 	path = obsidian
-	url = https://github.com/nhathuynguyen19/obsidian
+	url = git@github.com:nhathuynguyen19/obsidian.git
 [submodule "vietnamvacationtravel"]
 	path = vietnamvacationtravel
 	url = https://github.com/nhathuynguyen19/vietnamvacationtravel
@@ -133,3 +133,6 @@
 [submodule ".claude"]
 	path = .claude
 	url = git@github.com:nhathuynguyen19/.claude
+[submodule "baibaokhoahoc2026"]
+	path = baibaokhoahoc2026
+	url = git@github.com:nhathuynguyen19/baibaokhoahoc2026
