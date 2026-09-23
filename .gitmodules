@@ -136,3 +136,7 @@
 [submodule "baibaokhoahoc2026"]
 	path = baibaokhoahoc2026
 	url = git@github.com:nhathuynguyen19/baibaokhoahoc2026
+[submodule "lap-trinh-ung-dung-web"]
+	path = lap-trinh-ung-dung-web
+	url = git@github.com:nhathuynguyen19/lap-trinh-ung-dung-web.git
+	branch = master
