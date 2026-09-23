@@ -143,3 +143,6 @@
 [submodule "laptrinhphantan"]
 	path = laptrinhphantan
 	url = git@github.com:nhathuynguyen19/laptrinhphantan.git
+[submodule "youtube-music-lyrics-sync"]
+	path = youtube-music-lyrics-sync
+	url = git@github.com:nhathuynguyen19/youtube-music-lyrics-sync
