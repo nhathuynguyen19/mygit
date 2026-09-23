@@ -140,3 +140,6 @@
 	path = lap-trinh-ung-dung-web
 	url = git@github.com:nhathuynguyen19/lap-trinh-ung-dung-web.git
 	branch = master
+[submodule "laptrinhphantan"]
+	path = laptrinhphantan
+	url = git@github.com:nhathuynguyen19/laptrinhphantan.git
