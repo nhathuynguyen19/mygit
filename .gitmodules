@@ -146,3 +146,7 @@
 [submodule "youtube-music-lyrics-sync"]
 	path = youtube-music-lyrics-sync
 	url = git@github.com:nhathuynguyen19/youtube-music-lyrics-sync
+[submodule "obsidian-quickview"]
+	path = obsidian-quickview
+	url = git@github.com:nhathuynguyen19/obsidian-quickview.git
+	branch = master
